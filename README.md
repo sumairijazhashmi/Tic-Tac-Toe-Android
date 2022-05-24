@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Android
 
-I created a Tic-tac-toe Android application in Android Studio using Kotlin. Tic-tac-toe is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+I created a Tic-tac-toe Android application in Android Studio using Kotlin. Tic-tac-toe is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. This game can be played by two users on the same mobile device.
 
 
 # Screen Recording
